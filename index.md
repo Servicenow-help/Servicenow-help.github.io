@@ -35,5 +35,25 @@ _In this article, you can see the most recent/asked questions in ServiceNow Inte
 
    Example: To make the resolution code and resolution notes mandatory on incident resolution.
 
+6. What is the weight field in notification?
+ 
+   In laymen words, weight field generally defines the priority of the notification to be sent first. By default, the value is 0.
 
+7. What is inbound and outbound email?
+
+   Outbound means that ServiceNow makes calls to other applications. Inbound email sent from any user into ServiceNow.
+
+8. What are the mail types in inbound action?
+ 
+   The system classifies all incoming email into one of three types: forward, reply and new
+
+9. What is the difference between inbound action and email notification?
+
+   Email Notification: Email notifications triggered from servicenow to users.
+   
+   Inbound actions: Actions performed in recieved/incoming emails to ServiceNow.
+
+10. What is a scope and why?
+
+    Scope protects an application, its files, and its datas conflicts with other applications. Scope determines which part of an application are available for use of other applications in ServiceNow
 
