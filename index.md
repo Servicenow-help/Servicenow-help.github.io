@@ -1,13 +1,13 @@
 
 ## Welcome to ServiceNow Help 
 
-In this article, you can see the most recent/asked questions in ServiceNow Interviews. This will be helpful in preparing yourself in attending/cracking ServiceNow Interviews. 
+   In this article, you can see the most recent/asked questions in ServiceNow Interviews. This will be helpful in preparing yourself in attending/cracking ServiceNow Interviews. 
 
 ### Questions Set 1 - ServiceNow Administrator/Developer 
 
-1. Explain incident's lifecycle 
-
-   > Creation and Classification --> Investigation and Diagnostics --> Resolution and Closure 
+    1. Explain incident's lifecycle 
+     
+       Creation and Classification --> Investigation and Diagnostics --> Resolution and Closure 
 
 2. What is client script and its types? 
 
