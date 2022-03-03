@@ -5,7 +5,15 @@ _In this article, you can see the most recent/asked questions in ServiceNow Inte
 
 ### Questions Set 1 - ServiceNow Administrator/Developer 
 
-1. Explain incident's lifecycle
+_1. Explain incident's lifecycle_
    
-   Creation and Classification --> Investigation and Diagnostics --> Resolution and Closure
-    
+   _Creation and Classification --> Investigation and Diagnostics --> Resolution and Closure_
+
+_2. What is client script and its types?_
+
+    _Client script allows system to run JavaScript code on a Web browser when a client based event occurs._
+    - Types Of Client Script
+      - onChange
+      - onLoad
+      - onSubmit
+      - onCellEdit
