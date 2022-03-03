@@ -5,4 +5,7 @@ _In this article, you can see the most recent/asked questions in ServiceNow Inte
 
 ### Questions Set 1 - ServiceNow Administrator/Developer 
 
+1. Explain incident's lifecycle
+   
+   Creation and Classification --> Investigation and Diagnostics --> Resolution and Closure
     
