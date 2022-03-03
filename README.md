@@ -7,7 +7,7 @@ I have done the below mainline certifications:
  - Certified Application Developer
  - Certified Implementation Specialist - Discovery
 
- ## Topics
+## Topics
   - Manage and develop various client side objects like Client scripts, UI policies, UI action, email scripts and Server side objects like business rules, script include, workflow script, schedule, notification, dashboard and reports.
   - Creation/Modification of service catalog and workflow.
   - Creation/Modification of SLA definition and scheduled jobs.
