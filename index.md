@@ -9,14 +9,14 @@
      
        Creation and Classification --> Investigation and Diagnostics --> Resolution and Closure 
 
-2. What is client script and its types? 
+    2. What is client script and its types? 
 
-   > Client script allows system to run JavaScript code on a Web browser when a client based event occurs.
-   - Types Of Client Script
-     - onChange
-     - onLoad
-     - onSubmit
-     - onCellEdit 
+   >   Client script allows system to run JavaScript code on a Web browser when a client based event occurs.
+     - Types Of Client Script
+       - onChange
+       - onLoad
+       - onSubmit
+       - onCellEdit 
 
 3. Client Script can:
    - make fields hidden or visible
